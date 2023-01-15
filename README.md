@@ -15,6 +15,8 @@ Js two types of data types
     3. Regular Expression
   
 
+## Primitive Data Types 🎯
+
 #### 💡 String (Privitive Types)
  
 In string we can define our value in uder double and single quots.
@@ -45,4 +47,16 @@ if you're not assign any values in variable and you called id , so undefiend wil
 if we have'nt any number and data in our varaiable, in case we can assgin <code>null</code>. null is pre defind object in javascript.
 
 > <code>let x = null;</code>
+
+
+## Non Primitive Data Types 🎯
+
+
+#### 💡 Object (Non Privitive Types)
+ 
+in Object we can add and store multiple properties and values in a single time.
+
+![alt text](https://www.nicepng.com/png/detail/11-111655_car-illustration-red-car-vector-png.png)
+
+> <code>let x = "Values";</code>
 
