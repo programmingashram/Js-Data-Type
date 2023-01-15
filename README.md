@@ -54,7 +54,7 @@ if we have'nt any number and data in our varaiable, in case we can assgin <code>
 
 #### 💡 Object (Non Privitive Types)
  
-in Object we can add and store multiple properties and values in a single time.
+in Object we can add and store multiple properties in a single time.
 
 **For example
 
@@ -72,6 +72,15 @@ In case Js Object will allows us to storing these properties in single statement
         Price : "5L",
         Color : "Black"
     }
+</code>
+
+
+#### 💡 Array (Non Privitive Types)
+ 
+in Object we can add and store multiple values in a single time.
+
+<code>
+    let car = ["Ansh", "Rahgul", "Akram", ""Shivam];
 </code>
 
 
