@@ -90,7 +90,7 @@ Regular is an object, that allow us to create charecter block for matching and r
 regular expression is mostly use in form validation.
 
 
-##### Matching data.serach()
+##### ✨ Matching data.serach()
 It will return us to charecter.
 
 <code>
@@ -100,7 +100,7 @@ It will return us to charecter.
     console.log(result); output = [am, am]
 </code>
 
-##### Searching -  data.serach()
+##### ✨ Searching -  data.serach()
 It will return us to indexing number where of is comming.
 
 <code>
