@@ -65,7 +65,7 @@ Brand, Modal, Price, Color.
 
 In case Js Object will allows us to storing these properties in single statement or variable.
 
-```json
+```
 let car = {
     Brand : "Tata"
     Modal : "2019",
@@ -79,9 +79,9 @@ let car = {
  
 in Object we can add and store multiple values in a single time.
 
-<code>
+```
     let car = ["Ansh", "Rahgul", "Akram", "Shivam"];
-</code>
+```
 
 
 #### 💡 Regular Exp. (Non Privitive Types)
@@ -96,7 +96,7 @@ regular expression is mostly use in form validation.
 ##### ✨ Matching data.serach()
 It will return us to charecter.
  
-```json
+```
 let data = "Hii I am Programmer";
 let o = /am/g; 
 let result = data.match(o);
@@ -107,7 +107,7 @@ console.log(result); output = [am, am]
 ##### ✨ Searching -  data.serach()
 It will return us to indexing number where of is comming.
 
-```json
+```
 let data = "Programming Ashram is our center";
 let o = /is/; 
 let result = data.search(o);
