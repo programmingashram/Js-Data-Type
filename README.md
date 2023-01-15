@@ -66,12 +66,14 @@ Brand, Modal, Price, Color.
 In case Js Object will allows us to storing these properties in single statement or variable.
 
 <code>
-    let car = {
-        Brand : "Tata"
-        Modal : "2019",
-        Price : "5L",
-        Color : "Black"
-    }
+
+let car = {
+    Brand : "Tata"
+    Modal : "2019",
+    Price : "5L",
+    Color : "Black"
+}
+
 </code>
 
 
