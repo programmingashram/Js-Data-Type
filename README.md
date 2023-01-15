@@ -56,7 +56,7 @@ if we have'nt any number and data in our varaiable, in case we can assgin <code>
  
 in Object we can add and store multiple properties in a single time.
 
-**For example
+**For example**
 
 ![alt text](https://img.icons8.com/emoji/2x/oncoming-automobile.png)
 
@@ -65,16 +65,14 @@ Brand, Modal, Price, Color.
 
 In case Js Object will allows us to storing these properties in single statement or variable.
 
-<code>
-
+```json
 let car = {
     Brand : "Tata"
     Modal : "2019",
     Price : "5L",
     Color : "Black"
 }
-
-</code>
+```
 
 
 #### 💡 Array (Non Privitive Types)
@@ -82,7 +80,7 @@ let car = {
 in Object we can add and store multiple values in a single time.
 
 <code>
-    let car = ["Ansh", "Rahgul", "Akram", ""Shivam];
+    let car = ["Ansh", "Rahgul", "Akram", "Shivam"];
 </code>
 
 
@@ -97,23 +95,23 @@ regular expression is mostly use in form validation.
 
 ##### ✨ Matching data.serach()
 It will return us to charecter.
+ 
+```json
+let data = "Hii I am Programmer";
+let o = /am/g; 
+let result = data.match(o);
+console.log(result); output = [am, am]
 
-<code>
-    let data = "Hii I am Programmer";
-    let o = /am/g; 
-    let result = data.match(o);
-    console.log(result); output = [am, am]
-</code>
+````
 
 ##### ✨ Searching -  data.serach()
 It will return us to indexing number where of is comming.
 
-<code>
-    let data = "Programming Ashram is our center";
-    let o = /is/; 
-    let result = data.search(o);
-    console.log(result); // output = 19
-</code>
-
+```json
+let data = "Programming Ashram is our center";
+let o = /is/; 
+let result = data.search(o);
+console.log(result); // output = 19
+```
 
 
