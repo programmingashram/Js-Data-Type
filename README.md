@@ -15,7 +15,7 @@ Js two types of data types
     3. Regular Expression
   
 
-## Primitive Data Types 🎯
+### Primitive Data Types 🎯
 
 #### 💡 String (Privitive Types)
  
@@ -49,7 +49,7 @@ if we have'nt any number and data in our varaiable, in case we can assgin <code>
 > <code>let x = null;</code>
 
 
-## Non Primitive Data Types 🎯
+### Non Primitive Data Types 🎯
 
 
 #### 💡 Object (Non Privitive Types)
@@ -89,6 +89,9 @@ in Object we can add and store multiple values in a single time.
 Regular is an object, that allow us to create charecter block for matching and replacing and searching the content.
 regular expression is mostly use in form validation.
 
+> :memo: **Note:** Reg Ex. Mostly used in Form Validation.
+
+
 
 ##### ✨ Matching data.serach()
 It will return us to charecter.
@@ -109,5 +112,6 @@ It will return us to indexing number where of is comming.
     let result = data.search(o);
     console.log(result); // output = 19
 </code>
+
 
 
