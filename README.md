@@ -84,3 +84,30 @@ in Object we can add and store multiple values in a single time.
 </code>
 
 
+#### 💡 Regular Exp. (Non Privitive Types)
+ 
+Regular is an object, that allow us to create charecter block for matching and replacing and searching the content.
+regular expression is mostly use in form validation.
+
+
+##### Matching data.serach()
+It will return us to charecter.
+
+<code>
+    let data = "Hii I am Programmer";
+    let o = /am/g; 
+    let result = data.match(o);
+    console.log(result); output = [am, am]
+</code>
+
+##### Searching -  data.serach()
+It will return us to indexing number where of is comming.
+
+<code>
+    let data = "Programming Ashram is our center";
+    let o = /is/; 
+    let result = data.search(o);
+    console.log(result); // output = 19
+</code>
+
+
