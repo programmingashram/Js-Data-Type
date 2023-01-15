@@ -91,7 +91,7 @@ in Object we can add and store multiple values in a single time.
 Regular is an object, that allow us to create charecter block for matching and replacing and searching the content.
 regular expression is mostly use in form validation.
 
-> :memo: **Note:** Reg Ex. Mostly used in Form Validation.
+> 📝 **Note:** Reg Ex. Mostly used in Form Validation.
 
 
 
