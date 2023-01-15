@@ -56,7 +56,22 @@ if we have'nt any number and data in our varaiable, in case we can assgin <code>
  
 in Object we can add and store multiple properties and values in a single time.
 
-![alt text](https://www.nicepng.com/png/detail/11-111655_car-illustration-red-car-vector-png.png)
+**For example
 
-> <code>let x = "Values";</code>
+![alt text](https://img.icons8.com/emoji/2x/oncoming-automobile.png)
+
+We have a car , and car is an object , its having multiple properties. like - 
+Brand, Modal, Price, Color.
+
+In case Js Object will allows us to storing these properties in single statement or variable.
+
+<code>
+    let car = {
+        Brand : "Tata"
+        Modal : "2019",
+        Price : "5L",
+        Color : "Black"
+    }
+</code>
+
 
